@@ -1,7 +1,22 @@
-# SearchAI-Android
-SearchAI is now available on Android platform
+# SearchAI Android
 
-# Download The APK
+An Expo/React Native mobile client for the SearchAI service, with a prebuilt Android APK.
+
+## Features
+
+- Mobile search interface
+- React Native Paper components and icons
+- Android, iOS, and web development targets
+
+## Setup
+
+```bash
+npm install
+npm start
 ```
-https://github.com/UltronTheAI/SearchAI-Android/blob/main/SearchAI.apk
-```
+
+Use `npm run android`, `npm run ios`, or `npm run web` for a target platform.
+
+## License
+
+See [LICENSE](LICENSE).
